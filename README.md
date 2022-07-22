@@ -5,7 +5,7 @@
 - 📫 Contate-me no e-mail: desouza.walace@hotmail.com
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/walsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walsouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
